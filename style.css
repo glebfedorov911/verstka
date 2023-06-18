@@ -1,0 +1,849 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@media (min-width: 375px) and (max-width: 833px) {
+
+    .sinc {
+        width: 52.19px;
+        height: 30.75px;
+        margin-left: 35px;
+        margin-top: 36px;
+        position: absolute;
+    }
+
+    .online {
+        position: absolute;
+        width: 10.25px;
+        height: 9.79px;
+        margin-left: 35px;
+        margin-top: 111.95px;
+        line-height: 11.5px;
+    }
+
+    .online-course {
+        position: absolute;
+        font-family: 'Roboto';
+        width: 60.58px;
+        height: 14.91px;
+        margin-top: 111.35px;
+        margin-left: 48.98px;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 115%;
+        margin-right: 11.65px;
+    }
+
+    .clock {
+        position: absolute;
+        width: 10.25px;
+        height: 10.25px;
+        margin-top: 111.49px;
+        margin-left: 121.21px;
+        line-height: 11.5px;
+    }
+
+    .time {
+        position: absolute;
+        width: 60.58px;
+        height: 14.91px;
+        margin-left: 136.12px;
+        margin-top: 111.35px;
+        font-family: 'Roboto';
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .calendar {
+        position: absolute;
+        width: 9.32px;
+        height: 10.25px;
+        margin-top: 111.49px;
+        margin-left: 196.23px;
+    }
+
+    .date {
+        position: absolute;
+        width: 60.58px;
+        height: 14.91px;
+        margin-left: 211.6px;
+        margin-top: 111.35px;
+        font-family: 'Roboto';
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 11.5px;
+    }
+
+    .kino {
+        position: absolute;
+        font-family: 'Roboto Slab';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 37px;
+        width: 292.63px;
+        height: 88.53px;
+        margin-left: 35.47px;
+        margin-top: 134.32px;
+        line-height: 37.51px;
+    }
+
+    .quantityoflesson {
+        position: absolute;
+        width: 212.4px;
+        height: 28.96px;
+        margin-top: 225.07px;
+        margin-left: 35.74px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .man {
+        position: absolute;
+        width: 141.68px;
+        height: 175.1px;
+        margin-left: 201px;
+        margin-top: 254px;
+    }
+
+    .rect {
+        position: absolute;
+        width: 225.36px;
+        height: 93.19px;
+        margin-left: 37.98px;
+        margin-top: 467.75px;
+        background-color: #1E4681;
+        border-radius: 2.33px;
+    }
+
+    .main_text {
+        width: 200.64px;
+        height: 48.65px;
+        padding-left: 12.13px;
+        font-family: 'Roboto';
+        font-size: 11px;
+        font-weight: 400;
+        color: white;
+        line-height: 14.3px;
+    }
+
+    .name {
+        width: 130.7px;
+        height: 21.27px;
+        text-align: right;
+        padding-left: 87.07px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 10px;
+        color: white;
+        line-height: 13px;
+    }
+
+    .new {
+        position: absolute;
+        width: 310.8px;
+        height: 43.34px;
+        margin-left: 36px;
+        margin-top: 664px;
+        font-size: 26px;
+        font-family: 'Roboto Slab';
+        font-weight: 700;
+        line-height: 26.36px;
+    }
+
+    .list {
+        position: absolute;
+        width: 299px;
+        height: 174px;
+        margin-top: 717px;
+        margin-left: 15px;
+    }
+
+    .l {
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .rect_course {
+        position: absolute;
+        width: 671px;
+        height: 363.46px;
+        background-color: #9DC9C8;
+        margin-top: 1046px;
+        margin-left: 18px;
+        line-height: 26.36px;
+    }
+
+    .course_first {
+        font-family: "Roboto Slab";
+        font-weight: 700;
+        font-size: 26px;
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        width: 224px;
+        height: 63px;
+        margin-left: 57px;
+        margin-top: 62px;
+    }
+
+    .cost {
+        position: absolute;
+        width: 79.22px;
+        height: 14.91px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;
+        margin-top: 22.33px;
+        margin-left: 56.85px;
+        line-height: 12.17px;
+    }
+
+    .money {
+        position: absolute;
+        width: 224.13px;
+        height: 84.34px;
+        font-size: 37px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        margin-top: 36.3px;
+        margin-left: 56.85px;
+        line-height: 37.51px;
+    }
+
+    .level {
+        position: absolute;
+        width: 137px;
+        height: 14.91px;
+        margin-left: 57.85px;
+        margin-top: 108.53px;
+        font-size: 12px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        line-height: 12.17px;
+    }
+
+    .course_who {
+        position: absolute;
+        width: 138px;
+        height: 47px;
+        margin-left: 57px;
+        margin-top: 128px;
+        font-size: 10px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        line-height: 10.14px;
+    }
+
+    .now {
+        position: absolute;
+        width: 151px;
+        height: 14px;
+        margin-top: 109px;
+        margin-left: 226px;
+        font-size: 12px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        line-height: 12.17px;
+    }
+
+    .web {
+        position: absolute;
+        width: 140px;
+        height: 38px;
+        margin-left: 226px;
+        margin-top: 128px;
+        font-size: 10px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        line-height: 10.14px;
+    }
+    
+    .main_text_1 {
+        display: none;
+    }
+
+    .course_first_1 {
+        display: none;
+    }
+
+    .list_1 {
+        display: none;
+    }    
+
+    .l_1 {
+        display: none;
+    }
+
+    .web_1 {
+        display: none;
+    }
+
+    .course_who_1 {
+        display: none;
+    }
+
+}
+
+@media (min-width: 834px) and (max-width: 1279px) {
+
+    .sinc {
+        position: absolute;
+        width: 64.87px;
+        height: 38.23px;
+        margin-top: 22px;
+        margin-left: 70.08px;
+    }
+
+    .online {
+        position: absolute;
+        width: 12.74px;
+        height: 12.16px;
+        margin-top: 116.4px;
+        margin-left: 70.08px;
+    }
+
+    .online-course {
+        position: absolute;
+        width: 75.29px;
+        height: 18.53px;
+        margin-top: 118.14px;
+        margin-left: 87.45px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 13.8px;
+    }
+
+    .clock {
+        position: absolute;
+        width: 12.74px;
+        height: 12.74px;
+        margin-top: 115.83px;
+        margin-left: 177.23px;
+    }
+
+    .time {
+        position: absolute;
+        width: 75.29px;
+        height: 18.53px;
+        margin-top: 118.14px;
+        margin-left: 195.76px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 13.8px;
+    }
+
+    .calendar {
+        position: absolute;
+        width: 11.58px;
+        height: 12.74px;
+        margin-top: 115.83px;
+        margin-left: 270.47px;
+    }
+
+    .date {
+        position: absolute;
+        width: 75.29px;
+        height: 18.53px;
+        margin-top: 118.14px;
+        margin-left: 289.58px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;  
+        line-height: 13.8px;
+    }
+
+    .kino {
+        position: absolute;
+        width: 363.72px;
+        height: 110.04px;
+        margin-top: 144.2px;
+        margin-left: 70.66px;
+        font-family: 'Roboto Slab';
+        font-weight: 700;
+        font-size: 46px;
+        line-height: 46.64px;
+    }
+
+    .quantityoflesson {
+        position: absolute;
+        width: 264px;
+        height: 36px;
+        margin-top: 257px;
+        margin-left: 71px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .man {
+        position: absolute;
+        width: 176.07px;
+        height: 206.18px;
+        margin-top: 138.99px;
+        margin-left: 515.46px;
+    }
+
+    .rect {
+        position: absolute;
+        width: 280.11px;
+        height: 115.83px;
+        margin-top: 395.92px;
+        margin-left: 237.1px;
+        background-color: #1E4681;
+        color: white;
+        border-radius: 2.9px;
+    }
+
+    .main_text {
+        display: none;
+    }
+
+    .main_text_1 {
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        width: 249.38px;
+        height: 65.45px;
+        position: absolute;
+        margin-left: 15.08px;
+        margin-top: 11.15px;
+        line-height: 18.2px;
+    }
+
+    .name {
+        width: 162.46px;
+        height: 26.43px;
+        margin-top: 85.2px;
+        margin-left: 156.9px;
+        position: absolute;
+        font-size: 12px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        line-height: 15.6px;
+    }
+
+    .new {
+        position: absolute;
+        width: 386.3px;
+        height: 53.86px;
+        margin-left: 70px;
+        margin-top: 653px;
+        font-weight: 700;
+        font-family: 'Roboto Slab';
+        font-size: 32px;
+        line-height: 32.44px;
+    }
+
+    .list_1 {
+        position: absolute;
+        width: 383.41px;
+        height: 216.61px;
+        margin-left: 50px;
+        margin-top: 719.03px;
+    }
+
+    .l_1 {
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Roboto';
+        line-height: 21px;
+    }
+
+    .rect_course {
+        position: absolute;
+        width: 834px;
+        height: 451.75px;
+        margin-top: 1082px;
+        background-color: #9DC9C8;
+    }
+
+    .course_first {
+        display: none;
+    }
+
+    .course_first_1 {
+        position: absolute;
+        width: 525.88px;
+        height: 38.23px;
+        margin-top: 103.67px;
+        margin-left: 70.66px;
+        font-family: 'Roboto Slab';
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 32.44px;
+    }
+
+    .cost {
+        position: absolute;
+        width: 98.46px;
+        height: 18.53px;
+        margin-top: 173.17px;
+        margin-left: 70.66px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 14.19px;
+    }
+
+    .money {
+        position: absolute;
+        width: 278.58px;
+        height: 104.83px;
+        margin-top: 190.55px;
+        margin-left: 70.66px;
+        font-family: 'Roboto';
+        font-size: 46px;
+        font-weight: 400;
+        line-height: 46.64px;
+    }
+
+    .level {
+        position: absolute;
+        width: 170.28px;
+        height: 18.53px;
+        margin-left: 70.66px;
+        margin-top: 280.32px;
+        font-family: 'Roboto';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 14.19px;
+    }
+
+    .course_who {
+        display: none;
+    }
+
+    .course_who_1 {
+        position: absolute;
+        width: 170.28px;
+        height: 40.54px;
+        margin-top: 304.06px;
+        margin-left: 70.66px;
+        font-family: 'Roboto';
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 10.14px;
+    }
+
+    .now {
+        position: absolute;
+        width: 186.49px;
+        height: 18.53px;
+        margin-top: 280.32px;
+        margin-left: 281.47px;
+        font-family: 'Roboto';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 14.19px;
+    }
+
+    .web {
+        display: none;
+    }
+
+    .web_1 {
+        position: absolute;
+        width: 170.28px;
+        height: 40.54px;
+        margin-top: 304.06px;
+        margin-left: 281.47px;
+        line-height: 10.14px;
+        font-family: 'Roboto';
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    .list {
+        display: none;
+    }
+
+    .l {
+        display: none;
+    }
+
+}
+
+@media (min-width: 1280px) {
+    
+    .sinc {
+        position: absolute;
+        margin-top: 21px;
+        margin-left: 121px;
+        width: 112px;
+        height: 66px;
+    }
+
+    .online {
+        position: absolute;
+        margin-top: 184px;
+        margin-left: 121px;
+        width: 22px;
+        height: 21px;
+    }
+
+    .online-course {
+        position: absolute;
+        margin-top: 187px;
+        margin-left: 151px;
+        width: 130px;
+        height: 32px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+    }
+
+    .clock {
+        position: absolute;
+        margin-top: 183px;
+        margin-left: 306px;
+        width: 22px;
+        height: 22px;
+    }
+
+    .time {
+        position: absolute;
+        margin-top: 187px;
+        margin-left: 338px;
+        width: 130px;
+        height: 32px;
+        line-height: 23px;
+        font-family: 'Roboto';
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .calendar {
+        position: absolute;
+        margin-top: 183px;
+        margin-left: 467px;
+        width: 20px;
+        height: 22px;
+    }
+
+    .date {
+        position: absolute;
+        margin-top: 187px;
+        margin-left: 500px;
+        width: 130px;
+        height: 32px;
+        line-height: 23px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .kino {
+        position: absolute;
+        margin-top: 248px;
+        margin-left: 122px;
+        width: 628px;
+        height: 190px;
+        line-height: 81.11px;
+        font-family: 'Roboto Slab';
+        font-weight: 700;
+        font-size: 80px;
+    }
+
+    .quantityoflesson {
+        position: absolute;
+        margin-top: 427px;
+        margin-left: 122px;
+        width: 414px;
+        height: 62px;
+        line-height: 30px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .man {
+        position: absolute;
+        margin-top: 223px;
+        margin-left: 890px;
+        width: 304px;
+        height: 356px;
+    }
+
+    .rect {
+        position: absolute;
+        margin-top: 666.62px;
+        margin-left: 409.39px;
+        width: 483.63px;
+        height: 200.02px;
+        background-color: #1E4681;
+        color: white;
+    }
+
+    .main_text {
+        display: none;
+    }
+
+    .main_text_1 {
+        position: absolute;
+        margin-top: 19.26px;
+        margin-left: 26.03px;
+        width: 430.59px;
+        height: 113px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 32.5px;
+    }
+
+    .name {
+        position: absolute;
+        margin-top: 154.38px;
+        margin-left: 263.61px;
+        width: 280.5px;
+        height: 45.64px;
+        line-height: 26px;
+        font-family: 'Roboto';
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .new {
+        position: absolute;
+        margin-top: 1000px;
+        margin-left: 132px;
+        width: 667px;
+        height: 93px;
+        font-family: 'Roboto Slab';
+        font-size: 55px;
+        line-height: 55.76px;
+        font-weight: 700;
+    }
+
+    .list {
+        display: none;
+    }
+
+    .l {
+        display: none;
+    }
+
+    .list_1 {
+        position: absolute;
+        margin-top: 1114px;
+        margin-left: 120px;
+        width: 662px;
+        height: 374px;
+    }
+
+    .l_1 {
+        line-height: 36px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 24px;
+    }
+
+    .rect_course {
+        position: absolute;
+        margin-top: 1674px;
+        width: 1440px;
+        height: 780px;
+        background-color: #9DC9C8;
+    }
+
+    .course_first {
+        display: none;
+    }
+
+    .course_first_1 {
+        position: absolute;
+        margin-top: 179px;
+        margin-left: 122px;
+        width: 908px;
+        height: 66px;
+        font-family: 'Roboto Slab';
+        font-weight: 700;
+        font-size: 55px;
+        line-height: 55.76px;
+    }
+
+    .cost {
+        position: absolute;
+        margin-top: 299px;
+        margin-left: 122px;
+        width: 170px;
+        height: 32px;
+        line-height: 25.35px;
+        font-family: 'Roboto';
+        font-size: 25px;
+        font-weight: 400;
+    }
+
+    .money {
+        position: absolute;
+        margin-top: 329px;
+        margin-left: 122px;
+        width: 481px;
+        height: 181px;
+        line-height: 81.11px;
+        font-family: 'Roboto';
+        font-size: 80px;
+        font-weight: 400;
+    }
+
+    .level {
+        position: absolute;
+        margin-top: 484px;
+        margin-left: 122px;
+        width: 294px;
+        height: 32px;
+        font-family: 'Roboto';
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 25.35px;
+    }
+
+    .course_who {
+        display: none;
+    }
+
+    .course_who_1 {
+        position: absolute;
+        margin-top: 525px;
+        margin-left: 122px;
+        width: 294px;
+        height: 70px;
+        font-family: 'Roboto';
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 18.25px;
+    }
+
+    .now {
+        position: absolute;
+        margin-top: 484px;
+        margin-left: 486px;
+        width: 322px;
+        height: 32px;
+        font-family: 'Roboto';
+        font-size: 25px;
+        font-weight: 400;
+        line-height: 25.35px;
+    }
+
+    .web {
+        display: none;
+    }
+
+    .web_1 {
+        position: absolute;
+        margin-top: 525px;
+        margin-left: 486px;
+        width: 294px;
+        height: 70px;
+        line-height: 18.25px;
+        font-family: 'Roboto';
+        font-weight: 400;
+        font-size: 18px;
+    }
+
+}
